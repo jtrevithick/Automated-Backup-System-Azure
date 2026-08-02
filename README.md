@@ -4,6 +4,10 @@ A fully automated, self-healing backup system built on Azure Blob Storage, with 
 
 ---
 
+# Video of me doing the Project
+
+[Automated-Backup-System-Azure video](https://www.youtube.com/watch?v=XDhg5Y53QVA)
+
 ## The Problem
 
 Most small businesses back up data by having someone manually copy files to an external drive. When that person is out, busy, or simply forgets, nothing gets backed up — and when something eventually goes wrong, the data is gone.
